@@ -1,0 +1,6 @@
+Pillow
+opencv-python
+numpy
+scikit-learn
+pandas
+jupyter
